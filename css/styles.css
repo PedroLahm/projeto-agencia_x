@@ -1,17 +1,25 @@
 @charset "UTF-8";
 
 .dark-bg-color{
-   background-color: #252525;
+   background-color: #252525 !important;
 }
 
 .gray-bg-color{
-    background-color: #AAAAAA;
+    background-color: #CDCDCD !important;
 } 
 
-.dark-tx-color{
-    color: #252525;
+.light-bg-color{
+    background-color: #FFF;
 }
 
-.gray-tx-color{
-    color: #AAAAAA;
+.dark-tx-color{
+    color: #252525 !important;
+}
+
+.light-gray-tx-color{
+    color: #AAAAAA !important;
+}
+
+.light-tx-color{
+    color: #FFF;
 }
